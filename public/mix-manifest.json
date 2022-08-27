@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/jquery.dataTables.min.js": "/js/jquery.dataTables.min.js",
+    "/css/responsive.bootstrap4.min.css": "/css/responsive.bootstrap4.min.css",
+    "/css/dataTables.bootstrap4.min.css": "/css/dataTables.bootstrap4.min.css",
+    "/css/app.css": "/css/app.css",
+    "/css/custom.css": "/css/custom.css"
+}

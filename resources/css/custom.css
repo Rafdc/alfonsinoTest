@@ -1,0 +1,76 @@
+.login-page{
+    background-color: rgba(207, 255, 211, 0.2) !important;
+}
+
+.sidebar-bgcolor{
+    background-color: #CFFFD3;
+}
+
+.text-primary{
+    color: #003B4A !important;
+}
+
+.btn-primary{
+    background-color: #003B4A;
+    border-color: #003B4A;
+}
+
+.btn-primary:hover{
+    background-color: #00BAE8;
+    border-color: #00BAE8;
+    color: #000;
+}
+
+.navbar-cst-color {
+    background-color: rgba(207, 255, 211, 0.2);
+    color: #1f2d3d;
+}
+
+.content-wrapper{
+    background-color: rgba(207, 255, 211, 0.2);
+}
+
+.nav-pills .nav-link.active{
+    background-color: #003B4A;
+    color: #fff;
+}
+
+.nav-pills .nav-link.active >p{
+    color: #fff !important;
+}
+
+.nav-pills .nav-link.active >i{
+    color: #fff;
+}
+
+.nav-pills .nav-link.active >p>i{
+    color: #fff !important;
+}
+
+i{
+    color: #003B4A
+}
+
+.callout.callout-info {
+    border-left-color: #0091B5;
+}
+
+.card-footer{
+    background-color: rgba(207, 255, 211, 0.2);
+}
+
+.bg-info {
+    background-color: #0091B5 !important;
+}
+
+.card-primary.card-outline {
+    border-top: 3px solid #0091B5;
+}
+
+.register-page{
+    background-color: rgba(207, 255, 211, 0.2) !important;
+}
+
+.bg-primary {
+    background-color: rgba(207, 255, 211, 0.2) !important;
+}
